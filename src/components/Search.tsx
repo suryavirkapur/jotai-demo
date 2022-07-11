@@ -6,7 +6,7 @@ function Search() {
     let [pokemon, setPokemon] = useAtom(pokemonSearch);
     return (
         <>
-        <input value={pokemon} onChange={(evt)=>setPokemon(evt.target.value)}/>
+            <input value={pokemon} onChange={(evt) => setPokemon(evt.target.value)}/>
         </>
     )
 }
