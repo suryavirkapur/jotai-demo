@@ -1,2 +1,5 @@
 # jotai-demo
- Testing out jotai.
+ 
+- Seems refreshing and dead simple to use. 
+- Easy to adapt into most use cases. 
+
