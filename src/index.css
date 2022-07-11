@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: black;
+    margin: auto;
+    width: 50%;
+    color: powderblue;
+}
+input {
+    border: 3px solid green;
+    padding: 10px;
+    color: darkblue;
+    width: 300px;
+}
+
+.card {
+    background-color: white;
+    width: 300px;
+    color: darkblue;
+    border: 3px solid green;
+    padding: 10px;
+}
